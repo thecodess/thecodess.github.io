@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BMW</title>
+<link rel="icon" href="bmw.jpg"/>
+</head>
+<body bgcolor="#0b1116" style="color:white; font-family: verdana">
+<table border="0" width="1300" height="500" align="center" cellspacing="4" 
+cellpadding="7"  style="background-repeat: no-repeat; align:center;" >
+<tr height="50">
+<td width="580"> <img src="bmw.jpg" width="50" alt="logo"> </td>
+
+<td align="center" width="150" height="50"> <a href="index.html" 
+title=" Go to Home"><button style="width:100; height=30; background-color:#0b1116; border:0; color: white"><b><big> HOME </big></b></button> </a> </td>
+
+<td align="center" width="150" height="50"> <a href="#about" 
+title=" Go to About"><button style="width:100; height=30; background-color:#0b1116; border: 0; color: white"><b><big> ABOUT </big></b></button> </a> </td>
+
+<td align="center" width="150" height="50"> <a href="#gallery" 
+title=" Go to Gallery"><button style="width:100; height=30; background-color:#0b1116; border:0; color: white"><b><big> GALLERY </big></b></button> </a> </td>
+
+<td align="center" width="150" height="50"> <a href="#contactus" 
+title=" Go to Contact"><button style="width:100; height=30; background-color:#0b1116; border:0; color: white"><b><big> CONTACT US </big></b></button> </a> </td>
+</tr>
+
+<tr height="200" width="1300">
+<td width="1300" align="center" colspan="9"><big><big><b> WELCOME </b> </big> </big></td>
+</tr>
+<tr> 
+<td width="1300" height="400"> </td>
+</tr>
+</table>
+
+<!-- GALLERY -->
+
+<div id="gallery"> 
+<table border="0" width="1300" height="100" align="center" bgcolor="#0b1116">
+<tr>
+<td>
+<center> 
+<p style="width:250; height:30; background-color:#0b1116; border:0; color:white;"><big> <big><b>GALLERY </b> </big</big></p>
+</center>
+</td>
+</tr>
+</table>
+
+<table style="border:0; border-collapse:collapse" width:"1300" height:"300" align:"center" bgcolor:"#101820"> 
+<tr> 
+<td align="center" width="400" height="500"><img src="car4.jpg" width="400" height="500"> </td>
+<td align="center" width="250" height="500"><img src="car5.jpg" width="250" height="500"> </td>
+<td align="center" width="250" height="500"><img src="car6.jpg" width="250" height="500"> </td>
+<td align="center" width="400" height="500"><img src="car7.jpg" width="400" height="500"> </td>
+</tr>
+</table>
+</div>
+
+<!-- About Us -->
+
+<div id="about"> 
+<table border="0" width="1300" height="100" align="center" bgcolor="#0b1116">
+<tr>
+<td>
+<center> 
+<p style="width:250; height:30; background-color:#0b1116; border:0; color:white;"><big> <big><b>ABOUT US </b> </big</big></p>
+</center>
+</td>
+</tr>
+</table>
+<table border="0" width="1300" height="500" align="center" bgcolor="#0b1116"> 
+<tr>
+<td rowspan="2" width="100" height="500"> </td>
+<td width="500" height="500"><p style=" color: lightgrey"><big> <big>What is BMW? </big></big>
+
+</br>
+</br>
+<big>Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational manufacturer of luxury vehicles and motorcycles 
+headquartered in Munich, Bavaria, Germany. The corporation was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 
+until 1918 and again from 1933 to 1945 </big>
+</p> </td>
+<td align="center" width="700" height="500"><img src="car4.jpg" width="700" height="500"> </td>
+</tr>
+</table>
+</div>
+
+<div id="contactus">
+<table border="0" width="1300" height="100" align="center" bgcolor="#0b1116">
+<tr>
+<td>
+<center> 
+<p style="width:250; height:30; background-color:#0b1116; border:0; color:white;"><big> <big><b>CONTACT US </b> </big</big></p>
+</center>
+</td>
+</tr>
+</table>
+<table border="0" width="1300" height="300" align="center" bgcolor="#101820"> 
+<tr> 
+<td width="300"> </td>
+<td>
+<form>
+<p align="left"> Username</p>
+<input type="text" > 
+</br>
+<p align="left"> Email address</p>
+<input type="email"> </br> </br> </br>
+<input type="submit" value="Submit">
+</form>
+</td>
+<td align="center">
+<textarea rows="12" cols="50"> </textarea>
+</td>
+</tr>
+</table>
+
+<!-- LAST PART -->
+<table border="0" width="1300" height="30" align="center" bgcolor="#0b1116">
+<tr>
+<td> </td>
+</tr>
+</table>
+
+<table border="0" width="1300" height="30" align="center">
+<tr>
+<td>
+<p align="center"> <b> BMW </b> </p>
+<p align="center"> abc@gmail.com </p>
+<p align="center"> +44 637493648</p>
+<p align="center"> 3, Coleman Street, Parkview Estate, Lekki.</p>
+
+<p align="center" style="color: grey" > 2020 MASK</p>
+</tr> 
+</table>
+</div>
+</body>
+</html>
+
+
